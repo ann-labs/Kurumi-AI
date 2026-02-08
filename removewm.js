@@ -1,6 +1,7 @@
 /*
  - Fitur: REMOVE WM 
  - Author: Xiao Ann 
+ - Base: https://ezremove.ai/
  - Deskripsi: sesuiin ajah
 */
 
