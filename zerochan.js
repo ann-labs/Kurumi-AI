@@ -3,7 +3,6 @@
 - reques: NX
 - Author: Xiao Ann
 - Base: https://nozomi.dev.ar/snippet/code/zerochan.js
-- reques: NX
 - Note: Sesuaikan aja sama punya kalian 😁
 */
 
